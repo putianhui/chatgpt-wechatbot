@@ -3,13 +3,14 @@
  + 机器人群聊@回复
  + 机器人私聊回复
  + 好友添加自动通过
+![image](https://user-images.githubusercontent.com/68322685/206850729-901ae567-08e3-4221-8acb-bf32bfaa53c2.png)
 
 ## 注册openai
 
 chatGPT注册可以参考[这里](https://juejin.cn/post/7173447848292253704)
 注册完之后登录`https://chat.openai.com`获取token
 
-![](https://oss.putianhui.cn//admin/20221208112457.png)
+![image](https://user-images.githubusercontent.com/68322685/206850650-dc93c18b-b11a-4c55-8f77-a71da9559fbf.png)
 
 ## 使用
 
