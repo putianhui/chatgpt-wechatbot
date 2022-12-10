@@ -1,0 +1,2 @@
+# chatgpt-wechatbot
+一个将你的个人微信接入ChatGPT，并实现微信私聊获取群里@你通过chatgpt获取回复并回应微信好友的项目
